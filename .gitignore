@@ -4,3 +4,7 @@
 # Docker y volúmenes
 pgadmin_data/
 postgres_db/
+
+readme.md
+notebooks/PI 2025 DE ACN.ipynb
+data
